@@ -1,0 +1,3 @@
+# hipchat-notify
+steps:
+  - wercker/hipchat-notify@2.0.0
